@@ -1,1 +1,1 @@
-# TP_JS_Resaux_neuronale
+# TP_JS_Reseau_neuronal
